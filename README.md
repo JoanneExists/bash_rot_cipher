@@ -2,7 +2,7 @@
 Rotates characters in text file by a given amount.
 ## Installation
 ```
-$ git clone https://github.com/JoanneExists/bash_rot_cipher.git
+$ git clone ssh://git@github.com/JoanneExists/bash_rot_cipher.git
 $ cd bash_rot_cipher
 $ chmod +x cipher.sh
 ```
