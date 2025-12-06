@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env sh
 FILE=""
 SHIFT_FACTOR=0
 LOWER="abcdefghijklmnopqrstuvwxyz"
